@@ -1,0 +1,4 @@
+ @token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJDb2RfVXN1YXJpbyI6ImFkbWluIiwiaWF0IjoxNjkzMDY1NjI4LCJleHAiOjE3MjQ2MjMyMjh9.jcr9_FeVxfRvTjmP-8kZ9xmvinlmxUMcaakoHll3Z2E
+### Prueba de Acceso al API
+GET http://localhost:5000/api/v1/
+
